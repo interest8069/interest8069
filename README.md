@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-https://img.shields.io/badge/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.-brightgreen
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
